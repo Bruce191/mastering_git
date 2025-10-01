@@ -1,8 +1,3 @@
 #hello git
 
-
-#im adding this from branch-name branch
-
-
-
-#this is from dev-jsm
+#this is an edit from player2
